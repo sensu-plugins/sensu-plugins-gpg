@@ -1,4 +1,4 @@
-## S## Sensu-Plugins-gpg
+Sensu-Plugins-gpg
 
 [![Build Status](https://travis-ci.org/sensu-plugins/sensu-plugins-gpg.svg?branch=master)](https://travis-ci.org/sensu-plugins/sensu-plugins-gpg)
 [![Gem Version](https://badge.fury.io/rb/sensu-plugins-gpg.svg)](http://badge.fury.io/rb/sensu-plugins-gpg)
