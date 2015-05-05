@@ -34,7 +34,6 @@
 #   for details.
 
 require 'sensu-plugin/check/cli'
-require 'rubygems' if RUBY_VERSION < '1.9.0'
 require 'csv'
 require 'open3'
 require 'date'
