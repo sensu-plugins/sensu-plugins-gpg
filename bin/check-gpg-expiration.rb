@@ -17,12 +17,7 @@
 #
 # DEPENDENCIES:
 #   gem: sensu-plugin
-#   gem: json
-#   gem: csv
-#   gem: open3
-#   gem: date
-#   gem: time
-#   GPG
+#   GPG package
 #
 # USAGE:
 #   check-gpg-expiration.rb -i <GPG_KEY_ID>
