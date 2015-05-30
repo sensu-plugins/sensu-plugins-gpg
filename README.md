@@ -10,7 +10,7 @@ Sensu-Plugins-gpg
 ## Functionality
 
 ## Files
- * bin/check-gpg-expiration
+ * bin/check-gpg-expiration.rb
 
 ## Usage
 
