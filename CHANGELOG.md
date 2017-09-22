@@ -4,6 +4,18 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 This CHANGELOG follows the format listed at [Keep A Changelog](http://keepachangelog.com/)
 
 ## [Unreleased]
+### Added
+- added scripts 'check-all-gpg-keys-for-expiry.rb' and its spec script 'check_all_gpg_keys_for_expiry_spec.rb'.
+
+### Changed
+- moved spec_helper.rb from test to spec folder for consistency.
+- updated spec_helper.rb to provide classes and tools for testing check-all-gpg-keys-for-expiry.
+- updated license to include Crown Copyright.
+- updated readme to provide details on newly added scripts.
+- updated version.rb to include comments.
+
+### Breaking Change
+- bumped requirement of `sensu-plugin` to [2.0](https://github.com/sensu-plugins/sensu-plugin/blob/master/CHANGELOG.md#v200---2017-03-29)
 
 ## [1.0.0] -  2017-07-15
 ### Added
