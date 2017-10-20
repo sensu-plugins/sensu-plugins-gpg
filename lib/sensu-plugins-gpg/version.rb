@@ -4,7 +4,7 @@ module SensuPluginsGpg
   # three elements which are major, minor and patch number.
   module Version
     # Major version number (X.0.0)
-    MAJOR = 1
+    MAJOR = 2
     # Minor version number (0.X.0)
     MINOR = 0
     # Patch version number (0.0.X)
