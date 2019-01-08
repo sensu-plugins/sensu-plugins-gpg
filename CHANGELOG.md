@@ -5,6 +5,11 @@ This CHANGELOG follows the format listed at [Keep A Changelog](http://keepachang
 
 ## [Unreleased]
 
+### Breaking Changes
+- removed ruby `< 2.3` support as they are EOL (@majormoses)
+- bumped development dependency of `bundler` from `~> 1.7` to `~> 2.0` which required dropping EOL versions of ruby (@majormoses) (@dependabot)
+
+
 ## [2.0.0]
 ### Breaking Change
 - bumped requirement of `sensu-plugin` to [2.0](https://github.com/sensu-plugins/sensu-plugin/blob/master/CHANGELOG.md#v200---2017-03-29) (@majormoses)
